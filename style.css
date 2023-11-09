@@ -1,3 +1,20 @@
+body {
+   background-color: #000000; 
+}
+
+
+h1 {
+    color: aliceblue;
+    font-size: 50px;
+    text-align: center;
+}
+
+p{ 
+    color: #2c352c;
+    font-size: 30px;
+    text-align: justify;
+}
+
 .logo{
     width: 400px;
     height: 400px;
