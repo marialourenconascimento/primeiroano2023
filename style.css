@@ -3,7 +3,7 @@
     height: 400px;
     margin: 2px; /*insere um espaçamento externo ao elemento, ao redor da borda*/
     padding: 2px; /*define uma distancia interna entre um elemento e sua borda*/
-    border: 0 2rem solid #677b3e;
+    border: 0 2rem solid #7b3e6c;
     border-radius: 20px;
 }
 
@@ -12,6 +12,6 @@
     height:300px ;
     margin: 10px;
     padding: 3px;
-    border: 0.5rem solid #2c3546;
+    border: 0.5rem solid #462c39;
     border-radius: 24px;
 }    
