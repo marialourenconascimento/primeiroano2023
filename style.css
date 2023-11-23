@@ -3,6 +3,10 @@ body {
     background-image :linear-gradient(#F2BDBD,#D99D8F,#D97777);
 }
 
+header{
+    background-color: #F2BDBD;
+    border-bottom: #F2DCC9;
+}
 
 h1 {
     color:#D97777;
